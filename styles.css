@@ -1,0 +1,15 @@
+h2 {
+    color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headers {
+    background-color: rgb(178, 126, 126);
+    color: white;
+    text-align: center;
+}
+
+.links {
+    font-weight: bold;
+}
